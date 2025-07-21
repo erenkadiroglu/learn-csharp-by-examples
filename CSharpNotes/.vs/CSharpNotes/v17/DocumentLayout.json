@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\CSharpNotes\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpNotes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C05F4E3F-825E-4D14-B5CE-6497A45B27BF}|01_HelloWorld\\01_HelloWorld.csproj|c:\\users\\user\\source\\repos\\csharpnotes\\01_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C05F4E3F-825E-4D14-B5CE-6497A45B27BF}|01_HelloWorld\\01_HelloWorld.csproj|solutionrelative:01_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|c:\\users\\user\\onedrive\\desktop\\csharpnotes\\02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|C:\\Users\\user\\OneDrive\\Desktop\\CSharpNotes\\02_variables\\01_variabledefinitionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\01_variabledefinitionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|C:\\Users\\user\\OneDrive\\Desktop\\CSharpNotes\\02_variables\\02_personalinfoexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\02_personalinfoexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|C:\\Users\\user\\OneDrive\\Desktop\\CSharpNotes\\02_variables\\03_reservationcardexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\03_reservationcardexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|C:\\Users\\user\\OneDrive\\Desktop\\CSharpNotes\\02_variables\\04_ordersummaryexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\04_ordersummaryexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "04_OrderSummaryExample.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpNotes\\02_Variables\\04_OrderSummaryExample.cs",
+              "RelativeDocumentMoniker": "02_Variables\\04_OrderSummaryExample.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpNotes\\02_Variables\\04_OrderSummaryExample.cs",
+              "RelativeToolTip": "02_Variables\\04_OrderSummaryExample.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:27:16.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "03_ReservationCardExample.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpNotes\\02_Variables\\03_ReservationCardExample.cs",
+              "RelativeDocumentMoniker": "02_Variables\\03_ReservationCardExample.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpNotes\\02_Variables\\03_ReservationCardExample.cs",
+              "RelativeToolTip": "02_Variables\\03_ReservationCardExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:27:14.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "02_PersonalInfoExample.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpNotes\\02_Variables\\02_PersonalInfoExample.cs",
+              "RelativeDocumentMoniker": "02_Variables\\02_PersonalInfoExample.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpNotes\\02_Variables\\02_PersonalInfoExample.cs",
+              "RelativeToolTip": "02_Variables\\02_PersonalInfoExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:27:11.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "01_VariableDefinitionExample.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpNotes\\02_Variables\\01_VariableDefinitionExample.cs",
+              "RelativeDocumentMoniker": "02_Variables\\01_VariableDefinitionExample.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpNotes\\02_Variables\\01_VariableDefinitionExample.cs",
+              "RelativeToolTip": "02_Variables\\01_VariableDefinitionExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:27:07.979Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CSharpNotes\\01_HelloWorld\\Program.cs",
-              "RelativeDocumentMoniker": "01_HelloWorld\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\CSharpNotes\\01_HelloWorld\\Program.cs",
-              "RelativeToolTip": "01_HelloWorld\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpNotes\\02_Variables\\Program.cs",
+              "RelativeDocumentMoniker": "02_Variables\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpNotes\\02_Variables\\Program.cs",
+              "RelativeToolTip": "02_Variables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T20:07:07.992Z",
+              "WhenOpened": "2025-07-21T09:56:43.455Z",
               "EditorCaption": ""
             }
           ]
