@@ -46,6 +46,7 @@
     <Compile Include="01_VariableDefinitionExample.cs" />
     <Compile Include="04_OrderSummaryExample.cs" />
     <Compile Include="02_PersonalInfoExample.cs" />
+    <Compile Include="05_GroceryShoppingExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="03_ReservationCardExample.cs" />

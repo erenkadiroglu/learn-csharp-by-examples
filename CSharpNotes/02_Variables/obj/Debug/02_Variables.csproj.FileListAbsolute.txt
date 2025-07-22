@@ -6,3 +6,11 @@ C:\Users\user\OneDrive\Desktop\CSharpNotes\02_Variables\obj\Debug\02_Variables.c
 C:\Users\user\OneDrive\Desktop\CSharpNotes\02_Variables\obj\Debug\02_Variables.exe
 C:\Users\user\OneDrive\Desktop\CSharpNotes\02_Variables\obj\Debug\02_Variables.pdb
 C:\Users\user\OneDrive\Desktop\CSharpNotes\02_Variables\obj\Debug\02_Variables.exe.config
+C:\Users\user\OneDrive\Desktop\GitHub\learn-csharp-by-examples\CSharpNotes\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\user\OneDrive\Desktop\GitHub\learn-csharp-by-examples\CSharpNotes\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\user\OneDrive\Desktop\GitHub\learn-csharp-by-examples\CSharpNotes\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\user\OneDrive\Desktop\GitHub\learn-csharp-by-examples\CSharpNotes\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\GitHub\learn-csharp-by-examples\CSharpNotes\02_Variables\obj\Debug\02_Variables.exe.config
+C:\Users\user\OneDrive\Desktop\GitHub\learn-csharp-by-examples\CSharpNotes\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\GitHub\learn-csharp-by-examples\CSharpNotes\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\user\OneDrive\Desktop\GitHub\learn-csharp-by-examples\CSharpNotes\02_Variables\obj\Debug\02_Variables.pdb

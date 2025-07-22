@@ -10,7 +10,7 @@ namespace _02_Variables
     {
         static void Main(string[] args)
         {
-            while (true) // Kullanıcı çıkmak isteyene kadar tekrar eder
+            while (true) // Repeats until the user wants to exit
             {
                 Console.Clear();
                 Console.WriteLine("=== EXAMPLES MENU ===\n");
@@ -18,8 +18,9 @@ namespace _02_Variables
                 Console.WriteLine("2 - Personal Info Example");
                 Console.WriteLine("3 - Reservation Card Example");
                 Console.WriteLine("4 - Order Summary Example");
+                Console.WriteLine("5 - Grocery Shopping Example");
                 Console.WriteLine("0 - Exit");
-                Console.Write("\nSelect an option (0-4): ");
+                Console.Write("\nSelect an option (0-5): ");
 
                 string choice = Console.ReadLine(); // Reads a line of text input from the user and stores it in the variable 'choice'
                 Console.Clear(); // Clears the console screen to remove all previous output
@@ -38,15 +39,18 @@ namespace _02_Variables
                     case "4":
                         OrderSummaryExample.Run();
                         break;
+                    case "5":
+                        GroceryShoppingExample.Run();
+                        break;
                     case "0":
-                        Console.WriteLine("Exiting program...");
+                        Console.WriteLine("Exiting program...\n\n");
                         return;
                     default:
-                        Console.WriteLine("Invalid selection. Please choose between 0-4.");
+                        Console.WriteLine("Invalid selection. Please choose between 0-5.");
                         break;
                 }
 
-                Console.WriteLine("\nPress any key to return to menu...");
+                Console.WriteLine("\n\n\n\nPress any key to return to menu...");
                 Console.ReadKey(); //Prevents the program from ending immediately.
             }
         }
