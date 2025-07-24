@@ -19,8 +19,9 @@ namespace _02_Variables
                 Console.WriteLine("3 - Reservation Card Example");
                 Console.WriteLine("4 - Order Summary Example");
                 Console.WriteLine("5 - Grocery Shopping Example");
+                Console.WriteLine("6 - Area Calculation Example");
                 Console.WriteLine("0 - Exit");
-                Console.Write("\nSelect an option (0-5): ");
+                Console.Write("\nSelect an option (0-6): ");
 
                 string choice = Console.ReadLine(); // Reads a line of text input from the user and stores it in the variable 'choice'
                 Console.Clear(); // Clears the console screen to remove all previous output
@@ -42,11 +43,14 @@ namespace _02_Variables
                     case "5":
                         GroceryShoppingExample.Run();
                         break;
+                    case "6":
+                        AreaCalculationExample.Run();
+                        break;
                     case "0":
                         Console.WriteLine("Exiting program...\n\n");
                         return;
                     default:
-                        Console.WriteLine("Invalid selection. Please choose between 0-5.");
+                        Console.WriteLine("Invalid selection. Please choose between 0-6.");
                         break;
                 }
 

@@ -3,19 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\GitHub\\learn-csharp-by-examples\\CSharpNotes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|C:\\Users\\user\\OneDrive\\Desktop\\GitHub\\learn-csharp-by-examples\\CSharpNotes\\02_variables\\05_groceryshoppingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\05_groceryshoppingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|c:\\users\\user\\onedrive\\desktop\\github\\learn-csharp-by-examples\\csharpnotes\\02_variables\\06_areacalculationexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\06_areacalculationexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|c:\\users\\user\\onedrive\\desktop\\github\\learn-csharp-by-examples\\csharpnotes\\02_variables\\04_ordersummaryexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\04_ordersummaryexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|C:\\Users\\user\\OneDrive\\Desktop\\GitHub\\learn-csharp-by-examples\\CSharpNotes\\02_Variables\\02_PersonalInfoExample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|solutionrelative:02_Variables\\02_PersonalInfoExample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|c:\\users\\user\\onedrive\\desktop\\github\\learn-csharp-by-examples\\csharpnotes\\02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|C:\\Users\\user\\OneDrive\\Desktop\\GitHub\\learn-csharp-by-examples\\CSharpNotes\\02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB42947B-E796-434A-9D22-391D8BEE748E}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,56 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "04_OrderSummaryExample.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GitHub\\learn-csharp-by-examples\\CSharpNotes\\02_Variables\\04_OrderSummaryExample.cs",
-              "RelativeDocumentMoniker": "02_Variables\\04_OrderSummaryExample.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GitHub\\learn-csharp-by-examples\\CSharpNotes\\02_Variables\\04_OrderSummaryExample.cs",
-              "RelativeToolTip": "02_Variables\\04_OrderSummaryExample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T13:06:41.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "05_GroceryShoppingExample.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GitHub\\learn-csharp-by-examples\\CSharpNotes\\02_Variables\\05_GroceryShoppingExample.cs",
-              "RelativeDocumentMoniker": "02_Variables\\05_GroceryShoppingExample.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GitHub\\learn-csharp-by-examples\\CSharpNotes\\02_Variables\\05_GroceryShoppingExample.cs",
-              "RelativeToolTip": "02_Variables\\05_GroceryShoppingExample.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAwAAABSAAAAAAAAAA==",
+              "Title": "06_AreaCalculationExample.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GitHub\\learn-csharp-by-examples\\CSharpNotes\\02_Variables\\06_AreaCalculationExample.cs",
+              "RelativeDocumentMoniker": "02_Variables\\06_AreaCalculationExample.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GitHub\\learn-csharp-by-examples\\CSharpNotes\\02_Variables\\06_AreaCalculationExample.cs",
+              "RelativeToolTip": "02_Variables\\06_AreaCalculationExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T12:38:42.347Z",
+              "WhenOpened": "2025-07-24T20:36:49.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "02_PersonalInfoExample.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GitHub\\learn-csharp-by-examples\\CSharpNotes\\02_Variables\\02_PersonalInfoExample.cs",
-              "RelativeDocumentMoniker": "02_Variables\\02_PersonalInfoExample.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GitHub\\learn-csharp-by-examples\\CSharpNotes\\02_Variables\\02_PersonalInfoExample.cs",
-              "RelativeToolTip": "02_Variables\\02_PersonalInfoExample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T11:21:30.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\GitHub\\learn-csharp-by-examples\\CSharpNotes\\02_Variables\\Program.cs",
               "RelativeDocumentMoniker": "02_Variables\\Program.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\GitHub\\learn-csharp-by-examples\\CSharpNotes\\02_Variables\\Program.cs",
               "RelativeToolTip": "02_Variables\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T11:19:48.722Z",
               "EditorCaption": ""
